@@ -1,0 +1,226 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon7159.ttf?6f6fb07fb466006e96471dfa2f655bee") format("truetype"),
+url("flaticon7159.woff?6f6fb07fb466006e96471dfa2f655bee") format("woff"),
+url("flaticon7159.woff2?6f6fb07fb466006e96471dfa2f655bee") format("woff2"),
+url("flaticon7159.eot?6f6fb07fb466006e96471dfa2f655bee#iefix") format("embedded-opentype"),
+url("flaticon7159.svg?6f6fb07fb466006e96471dfa2f655bee#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bar-graph:before {
+    content: "\f101";
+}
+.flaticon-graph:before {
+    content: "\f102";
+}
+.flaticon-calendar:before {
+    content: "\f103";
+}
+.flaticon-credit-card:before {
+    content: "\f104";
+}
+.flaticon-speech:before {
+    content: "\f105";
+}
+.flaticon-charity:before {
+    content: "\f106";
+}
+.flaticon-presentation:before {
+    content: "\f107";
+}
+.flaticon-laptop:before {
+    content: "\f108";
+}
+.flaticon-tax:before {
+    content: "\f109";
+}
+.flaticon-abacus:before {
+    content: "\f10a";
+}
+.flaticon-atm:before {
+    content: "\f10b";
+}
+.flaticon-hammer:before {
+    content: "\f10c";
+}
+.flaticon-portfolio:before {
+    content: "\f10d";
+}
+.flaticon-balance:before {
+    content: "\f10e";
+}
+.flaticon-bank:before {
+    content: "\f10f";
+}
+.flaticon-money:before {
+    content: "\f110";
+}
+.flaticon-checklist:before {
+    content: "\f111";
+}
+.flaticon-businessman:before {
+    content: "\f112";
+}
+.flaticon-safe:before {
+    content: "\f113";
+}
+.flaticon-diamond:before {
+    content: "\f114";
+}
+.flaticon-calculator:before {
+    content: "\f115";
+}
+.flaticon-earning:before {
+    content: "\f116";
+}
+.flaticon-file:before {
+    content: "\f117";
+}
+.flaticon-payment-check:before {
+    content: "\f118";
+}
+.flaticon-euro-coin:before {
+    content: "\f119";
+}
+.flaticon-money-1:before {
+    content: "\f11a";
+}
+.flaticon-exchange:before {
+    content: "\f11b";
+}
+.flaticon-money-exchange:before {
+    content: "\f11c";
+}
+.flaticon-salary:before {
+    content: "\f11d";
+}
+.flaticon-dollar-coin:before {
+    content: "\f11e";
+}
+.flaticon-hourglass:before {
+    content: "\f11f";
+}
+.flaticon-gold-ingots:before {
+    content: "\f120";
+}
+.flaticon-gold-ingots-1:before {
+    content: "\f121";
+}
+.flaticon-tv-monitor:before {
+    content: "\f122";
+}
+.flaticon-sprout:before {
+    content: "\f123";
+}
+.flaticon-plant:before {
+    content: "\f124";
+}
+.flaticon-plant-1:before {
+    content: "\f125";
+}
+.flaticon-light-bulb:before {
+    content: "\f126";
+}
+.flaticon-medical-insurance:before {
+    content: "\f127";
+}
+.flaticon-insurance:before {
+    content: "\f128";
+}
+.flaticon-time:before {
+    content: "\f129";
+}
+.flaticon-money-bag:before {
+    content: "\f12a";
+}
+.flaticon-piggy-bank:before {
+    content: "\f12b";
+}
+.flaticon-mobile-banking:before {
+    content: "\f12c";
+}
+.flaticon-rocket:before {
+    content: "\f12d";
+}
+.flaticon-shirt:before {
+    content: "\f12e";
+}
+.flaticon-recommendation:before {
+    content: "\f12f";
+}
+.flaticon-wallet:before {
+    content: "\f130";
+}
+.flaticon-edc:before {
+    content: "\f131";
+}
+.flaticon-call:before {
+    content: "\f132";
+}
+.flaticon-call-1:before {
+    content: "\f133";
+}
+.flaticon-email:before {
+    content: "\f134";
+}
+.flaticon-pin:before {
+    content: "\f135";
+}
+.flaticon-right-arrow:before {
+    content: "\f136";
+}
+.flaticon-email-1:before {
+    content: "\f137";
+}
+.flaticon-location:before {
+    content: "\f138";
+}
+.flaticon-phone-call:before {
+    content: "\f139";
+}
+.flaticon-headphones:before {
+    content: "\f13a";
+}
+.flaticon-blocks-with-angled-cuts:before {
+    content: "\f13b";
+}
+.flaticon-left-quote:before {
+    content: "\f13c";
+}
+.flaticon-right-quote:before {
+    content: "\f13d";
+}
+.flaticon-phone-call-1:before {
+    content: "\f13e";
+}
+.flaticon-analyst:before {
+    content: "\f13f";
+}
+.flaticon-businessman-1:before {
+    content: "\f140";
+}
+.flaticon-solution:before {
+    content: "\f141";
+}
+.flaticon-solution-1:before {
+    content: "\f142";
+}
+.flaticon-multiple-users:before {
+    content: "\f143";
+}
+.flaticon-users:before {
+    content: "\f144";
+}
+.flaticon-analytics:before {
+    content: "\f145";
+}
